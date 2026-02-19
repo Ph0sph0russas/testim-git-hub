@@ -4,8 +4,8 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
-            Console.WriteLine("TEST FOR GIT");
+            int result = 2 % 10;
+            Console.WriteLine(result);
         }
     }
 }
